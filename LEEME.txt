@@ -1,0 +1,15 @@
+SOBRE TIENDA 2018 para 1ºDAM/DAW
+-----
+
+Fichero de las base de datos y tablas y algunos datos en tienda2018.sql
+
+Para conectarse:
+Usuario: admin y pass: admin --> administrador
+Usuario: pepe@pepe.com y pass: pepe --> usuario
+Usuario: ana@ana.com y pass: ana (o eso creo) --> usuario
+
+En el directorio jar están 
+- Conectores de la BD: mariadb-jdbc-1.6.5.jar -> Actualizar a ultima versión si se quiere (Ojo al a versión de java): https://mariadb.com/kb/en/library/about-mariadb-connector-j/ 
+- JCalendar: jcalendar-1.4.jar -> https://toedter.com/jcalendar/ 
+	Y aquí lo añadimos al NetBeans: https://www.discoduroderoer.es/anadir-jcalendar-a-netbeans/
+
